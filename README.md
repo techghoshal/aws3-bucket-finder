@@ -1,5 +1,5 @@
 
-<h1 align="center"  style="color:blue;">
+<h1 align="center">
 aws3 Bucket Finder
 </h1>
 
