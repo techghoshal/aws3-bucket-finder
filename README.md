@@ -2,12 +2,10 @@
 aws3 Bucket Finder
 </h1>
 
-<p1 align="center" >
+<p align="center" >
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCPNhwkJ4zc3FXGn-Rba6Hvg?style=social">
-
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/techghoshal?style=social">
-
-</p1>
+</p>
 
 ## Ues Easy
 
