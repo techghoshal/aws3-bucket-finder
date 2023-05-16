@@ -3,8 +3,6 @@
 aws3 Bucket Finder
 </h1>
 
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCPNhwkJ4zc3FXGn-Rba6Hvg?style=social">
-
 ## Ues Easy
 
 ```bash
@@ -23,6 +21,8 @@ nuclei -l target-wordlist.txt -t aws3.yaml
 
 
 ## Support
+
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCPNhwkJ4zc3FXGn-Rba6Hvg?style=social">
 
 
 
