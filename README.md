@@ -1,4 +1,4 @@
-<h1 align="center" color="green">
+<h1 align="center">
 aws3 Bucket Finder
 </h1>
 <p align="center" >
@@ -13,6 +13,7 @@ nuclei -l target-wordlist.txt -t aws3.yaml
 ```
 
 ## Screenshot
+
 
 <h1 align="left">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85815644/238631984-0697e06d-2cee-4b7f-ab62-14aa41136374.png" alt="s3-bucket-finder" width="700px"></a>
