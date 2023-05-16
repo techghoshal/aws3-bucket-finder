@@ -1,0 +1,30 @@
+id: aws3-bucket
+
+info:
+  name: aws3-bucket-finder
+  author: Tech Ghoshal
+  description: aws s3 bucket finder 
+  tags: aws3,bucket
+
+http:
+  - method: GET
+    path:
+      - "{{BaseURL}}.s3.amazonaws.com"
+
+      #add region
+      # - "{{BaseURL}}.s3.us-west-2.amazonaws.com"
+      # - "{{BaseURL}}.s3-website-us-west-2.amazonaws.com"
+
+    matchers:
+      - type: status
+        status:
+          - 200
+      - type: status
+        status: 
+          - 403
+      - type: status
+        status: 
+          - 302
+      - type: status
+        status: 
+          - 301
