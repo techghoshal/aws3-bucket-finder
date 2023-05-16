@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1 align="center" color="green">
 aws3 Bucket Finder
 </h1>
 
@@ -8,9 +8,6 @@ aws3 Bucket Finder
 ```bash
 nuclei -l target-wordlist.txt -t aws3.yaml 
 ```
-
-
-
 
 ## Screenshot
 
