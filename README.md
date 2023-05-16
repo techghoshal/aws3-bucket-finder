@@ -6,7 +6,7 @@ AWS s3 Bucket Finder
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/techghoshal?style=social">
 </p>
 
-## Used Easy
+### Used Easy
 
 ```bash
 nuclei -l target-wordlist.txt -t aws3.yaml 
