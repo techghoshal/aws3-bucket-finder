@@ -12,7 +12,7 @@ AWS s3 Bucket Finder
 nuclei -l target-wordlist.txt -t aws3.yaml 
 ```
 
-## Screenshot
+### Screenshot
 
 
 <h1 align="left">
